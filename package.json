@@ -1,0 +1,22 @@
+{
+  "name": "kyrene",
+  "version": "1.0.0",
+  "description": "Kyne Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Haha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwema7/kyrene.git"
+  },
+  "keywords": [
+    "Kyrene"
+  ],
+  "author": "John Muema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwema7/kyrene/issues"
+  },
+  "homepage": "https://github.com/mwema7/kyrene#readme"
+}
